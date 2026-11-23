@@ -9,4 +9,9 @@
     <Project Path="Tyuiu.AbramenkoAS.Sprint5.Task1.V27.Test/Tyuiu.AbramenkoAS.Sprint5.Task1.V27.Test.csproj" />
     <Project Path="Tyuiu.AbramenkoAS.Sprint5.Task1.V27/Tyuiu.AbramenkoAS.Sprint5.Task1.V27.csproj" />
   </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.AbramenkoAS.Sprint5.Task2.V8.Lib/Tyuiu.AbramenkoAS.Sprint5.Task2.V8.Lib.csproj" Id="82dcc85d-fd3f-4424-81da-ce40366f3548" />
+    <Project Path="Tyuiu.AbramenkoAS.Sprint5.Task2.V8.Test/Tyuiu.AbramenkoAS.Sprint5.Task2.V8.Test.csproj" Id="3b4bd7d7-e52b-4a15-84b5-69854341a97d" />
+    <Project Path="Tyuiu.AbramenkoAS.Sprint5.Task2.V8/Tyuiu.AbramenkoAS.Sprint5.Task2.V8.csproj" Id="373112bd-6a39-4375-baa7-3c4e3d953208" />
+  </Folder>
 </Solution>
